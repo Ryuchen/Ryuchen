@@ -2,7 +2,7 @@
 <div>
     <h3>
         欢迎 
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> 
         您点开我的个人资料 
         <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
     </h3>
@@ -30,7 +30,7 @@
 
 Hi, my name is Chen Hao ([@Ryuchen](https://github.com/Ryuchen)), a program development enthusiast from China. Graduated from [Beijing Information Technology University](https://bistu.edu.cn) in 2016, after graduation, I joined [Beijing Jinjing Yunhua Technology Co., Ltd.](http://www.geyecloud.com/) to engage in network security related work. I quit my job in 2019 and returned to campus for further studies. At this stage, I am a postgraduate majoring in cyberspace security at [Beijing Information Technology University](https://bistu.edu.cn).
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="320" />
+<img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/abhisheknaiidu/abhisheknaiidu@master/code.gif" height="320" />
 
 <br />
 
@@ -57,18 +57,17 @@ Talking about Personal Situation
 
 Languages and Tools
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://avatars0.githubusercontent.com/u/6764390?s=200&v=4"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://pic.pngsucai.com/00/07/63/a000a81dc937fe0a.jpg"></code>
+<code><img height="40" src="https://pic.pngsucai.com/00/08/71/f9c7f730be5e8973.jpg"></code>
+<code><img height="40" src="https://pic.pngsucai.com/00/18/19/d809a40645be68e2.jpg"></code>
+<code><img height="40" src="https://pic.pngsucai.com/00/58/21/b28ef2364cad90d4.jpg"></code>
+<code><img height="40" src="https://pic.pngsucai.com/00/09/58/3c7cfe670be42b82.jpg"></code>
+<code><img height="40" src="https://pic.pngsucai.com/00/17/15/38dd6a0a08f8371d.jpg"></code>
+<code><img height="40" src="https://pic.pngsucai.com/00/15/68/3fecd63645d8206b.jpg"></code>
+<code><img height="40" src="https://pic.pngsucai.com/00/32/67/637132bd9eb40c77.jpg"></code>
+<code><img height="40" src="https://pic.pngsucai.com/00/59/88/2fed51995876e81c.jpg"></code>
+<code><img height="40" src="https://pic.pngsucai.com/00/56/59/06f6387d6696190d.jpg"></code>
+<code><img height="40" src="https://pic.pngsucai.com/00/25/36/2cd723d4a8c76e89.jpg"></code>
 
 <br />
 
@@ -77,7 +76,7 @@ Languages and Tools
 My Github Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ryuchen&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ryuchen&show_icons=true" alt="Ryuchen" />
 </p>
 
 <br />
@@ -87,6 +86,3 @@ My Github Stats
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 Contact Me 👉 [这里 (This)](https://ryuchen.club/about) 👈 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-
-
-
