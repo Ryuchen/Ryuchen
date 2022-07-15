@@ -4,8 +4,10 @@
     您点开我的个人信息
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
   </h3>
+</div>
 
-  <p align="center">
+<div align="center">
+  <p>
     Welcome! Thanks for watching My Personal Profile
     <br />
     <a href="https://ryuchen.club"><strong>Personal Blog here »</strong></a>
@@ -13,13 +15,17 @@
   </p>
 </div>
 
-[![GitHub Ryuchen](https://img.shields.io/github/followers/Ryuchen?label=follow&style=social)](https://github.com/Ryuchen)
-![visitor](https://visitor-badge.glitch.me/badge?page_id=ryuchen.visitor-badge)
+<div align="center">
+  <a><img alt="GitHub followers" src="https://img.shields.io/github/followers/Ryuchen?style=social"></a>
+  <a><img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/Ryuchen?style=social"></a>
+</div>
 
 <br />
 
 #### **自我介绍** 
 > Self-introduction
+
+![visitor](https://visitor-badge.glitch.me/badge?page_id=ryuchen.visitor-badge)
 
 我的名字叫做 陈浩 ([@Ryuchen](https://github.com/Ryuchen))， 是一名来自中国的开发爱好者。
 - 2012年，我就读于[北京信息科技大学](https://www.bistu.edu.cn)信息管理与信息系统学院正式踏入软件开发行业；
