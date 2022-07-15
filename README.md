@@ -43,36 +43,26 @@ Hi, my name is Chen Hao ([@Ryuchen](https://github.com/Ryuchen)), a program deve
     - Threat Intelligence Center Products
 - In 2022, after successfully completing my studies, I joined [ByteDance] (https://www.bytedance.com/) to manage the R&D management and architecture design of self-developed EDR products.
 
-
-<br />
-
-
 <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/abhisheknaiidu/abhisheknaiidu@master/code.gif" height="320" />
 
 #### **目前情况**
 > Current Situation
 
-- 👨🏽‍💻 目前自己在编写一些比较酷的项目;
-> I’m currently working on something cool;
+👨🏽‍💻 目前自己在编写一些比较酷的项目(I’m currently working on something cool);
 
 + [Panda-Sandbox](https://github.com/Ryuchen/Panda-Sandbox)
 + [Deadpool](https://github.com/Ryuchen/Deadpool)
 + [FireWatch](https://github.com/Ryuchen/FireWatch)
 
 
-- 🌱 在校期间学习自然语言处理相关内容; 
-> I’m currently learning NLP knowledge;
+🌱 在校期间学习自然语言处理相关内容(I’m currently learning NLP knowledge);
 
 + [ML-Notes](https://github.com/Ryuchen/Machine-Learning-Notes)
-
-<br />
 
 #### **语言和工具** 
 > Languages and Tools
 
 * [![Vue][Vue.js]][Vue-url]
-
-<br />
 
 #### **Github 状态** 
 > Github Stats
@@ -80,8 +70,6 @@ Hi, my name is Chen Hao ([@Ryuchen](https://github.com/Ryuchen)), a program deve
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Ryuchen&show_icons=true" alt="Ryuchen" />
 </p>
-
-<br />
 
 #### **联系我的方式**
 > Contact Me
