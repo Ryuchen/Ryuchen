@@ -43,7 +43,11 @@ Hi, my name is Chen Hao ([@Ryuchen](https://github.com/Ryuchen)), a program deve
     - Threat Intelligence Center Products
 - In 2022, after successfully completing my studies, I joined [ByteDance] (https://www.bytedance.com/) to manage the R&D management and architecture design of self-developed EDR products.
 
-<img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/abhisheknaiidu/abhisheknaiidu@master/code.gif" height="320" />
+<a>
+  <span height="20px"></span>
+  <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/abhisheknaiidu/abhisheknaiidu@master/code.gif" height="320" />
+</a>
+
 
 #### **目前情况**
 > Current Situation
